@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">IKepseuProjectOne</string>
+    <string name="record">Set Reminder</string>
+    <string name="settings">Go To Settings</string>
+    <string name="report">Visualize Records</string>
+    <string name="patientName">Patient Name:</string>
+    <string name="medName">Medicine Name:</string>
+    <string name="type">Type of Medicine:</string>
+    <string name="selectDate">Click to Select the Date:</string>
+    <string name="selectTime">Select Time</string>
+    <string name="defaultDate">JUN 19 2022</string>
+    <string name="main">Return to Home Page</string>
+    <string name="deleteLast">Delete Last Entry</string>
+    <string name="deleteAll">Delete All Entries</string>
+    <string name="myName">Name:</string>
+    <string name="myDescription">Description:</string>
+    <string name="ivan">Ivan Kepseu</string>
+    <string name="appDescription">This app is a medication reminder app that helps users note the details of their medication</string>
+
+    <string-array name="spinnerTypes">
+        <item>Liquid</item>
+        <item>Tablet</item>
+        <item>Capsules</item>
+        <item>Suppositories</item>
+        <item>Drops</item>
+        <item>Inhalers</item>
+        <item>Injections</item>
+        <item>Implants/Patches</item>
+    </string-array>
+</resources>
